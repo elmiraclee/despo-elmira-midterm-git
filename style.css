@@ -2,24 +2,26 @@ body {
     font-family: Helvetica, sans-serif;
     background-color: #ecbcbc;
     text-align: center;
-    margin-top: 20px;
 };
-text {
-    text-align: center;
+p {
+
     margin: 20px;
     font-size: 15px;
 };
 h2{
-    text-align: center;
     margin: 20px;
     font-size: 15px;
 };
 ul {
-    list-style-type: none;
+    list-style-type: style type;
     padding: 0;
     margin: 20px;
     margin-top: 20px;
     margin:auto;
     font-size: 15px;
-
+};
+li{
+    margin: 10px;   
+    margin-top: 10px;
+    padding: 10px;
 };
